@@ -15,9 +15,17 @@
 > - 개발기간
 > - 핵심 역할
 > > Back-end
-> > - Language :
-> > - Skill :
+> > - Language : java
+> > - Skill : SpringBoot, OracleDB
 > > [프로젝트 상세 설명(Back-end)](https://github.com/hnymon/final-backend)
-
+>
+> > Front-end
+> > - Language : javascript
+> > - Skill : React.js
+> > [프로젝트 상세 설명(Front-end)](https://github.com/hnymon/final-froentend)
+>
+> > Skills & Tools
+> > > Java / SpringBoot / React / JavaScript / Spring Security /Oauth2 / JWT / RestAPI / JPA / JSON
+> > > Docker / OracleDB / AWS / Ubuntu
 
 ## 2. E1I4S
