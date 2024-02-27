@@ -25,7 +25,7 @@
 > > [프로젝트 상세 설명(Front-end)](https://github.com/hnymon/final-froentend)
 >
 > > Skills & Tools
-> > > Java / SpringBoot / React / JavaScript / Spring Security /Oauth2 / JWT / RestAPI / JPA / JSON
+> > > Java / SpringBoot / React / JavaScript / Spring Security / Oauth2 / JWT / RestAPI / JPA / JSON
 > > > Docker / OracleDB / AWS / Ubuntu
 <!--
 ## 2. E1I4S
