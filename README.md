@@ -24,7 +24,7 @@
 > > - Language : javascript
 > > - Skill : React.js
 > >   
-> > [프로젝트 상세 설명(Front-end)](https://github.com/hnymon/final-froentend)
+> > [프로젝트 상세 설명(Front-end)](https://github.com/hnymon/final-frontend)
 >
 > > Skills & Tools
 > > > Java / SpringBoot / React / JavaScript / Spring Security / Oauth2 / JWT / RestAPI / JPA / JSON
